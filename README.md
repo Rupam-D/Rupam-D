@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JavaScript, Node.Js, MongoDB, Express**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
